@@ -1,0 +1,14 @@
+{
+  "name": "redux-class-watcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Simple redux reducers to equalize serializeable class instance state with redux state",
+  "dependencies": {
+    "@reduxjs/toolkit": "1.8.1"
+  }
+}
